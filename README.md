@@ -218,3 +218,8 @@ Health-check:
 * GET [http://localhost:8080/health](http://localhost:8080/health)
 * GET [http://localhost:8081/health](http://localhost:8081/health)
 * GET [http://localhost:8082/health](http://localhost:8082/health)
+
+# 11. Word cloud
+
+Доступен по вызову:
+GET /files/{artifactFileId}
